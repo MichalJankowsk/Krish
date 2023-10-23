@@ -67,8 +67,8 @@ const Footer = () => {
           © Copyright {year}. Designed by{' '}
           <Link href="http://krish4alex.vercel.app">krish4alex</Link> and
           Developed by{' '}
-          <Link href="http://aftabrehan.com">
-            <a target="_blank">Aftab Rehan</a>
+          <Link href="http://jankowski.vercel.app">
+            <a target="_blank"> Michal jankowski</a>
           </Link>
           .
         </motion.div>
